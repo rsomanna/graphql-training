@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Graphql training",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsomanna/graphql-training.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Somanna Ramaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsomanna/learnings/issues"
+  },
+  "homepage": "https://github.com/rsomanna/learnings#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
